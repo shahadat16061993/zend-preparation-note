@@ -5,18 +5,18 @@
 ##List of Exam Topics
 
 #PHP Basics
-Syntax
-Operators
-Variables
-Control Structures
-Language Constructs and Functions
-Namespaces 
-Extensions
-Config
-Performance/bytecode caching
+1. Syntax
+2. Operators
+3. Variables
+4. Control Structures
+5. Language Constructs and Functions
+6. Namespaces 
+7. Extensions
+8. Config
+9. Performance/bytecode caching
 
 #Functions
-Arguments
+1. Arguments
 Variables
 References
 Returns
