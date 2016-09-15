@@ -17,38 +17,38 @@
 
 #Functions
 1. Arguments
-Variables
-References
-Returns
-Variable Scope
-Anonymous Functions, closures
+2. Variables
+3. References
+4. Returns
+5. Variable Scope
+6. Anonymous Functions, closures
 
 #Data Format & Types
-XML Basics
-SimpleXML
-XML Extension
-Webservices Basics
-SOAP
-JSON 
-DateTime 
-DOMDocument
+1. XML Basics
+2. SimpleXML
+3. XML Extension
+4. Webservices Basics
+5. SOAP
+6. JSON 
+7. DateTime 
+8. DOMDocument
 
 #Web Features
-Sessions
-Forms
-GET and POST data
-Cookies
-HTTP Headers
-HTTP Authentication
-HTTP Status Codes 
+1. Sessions
+2. Forms
+3. GET and POST data
+4. Cookies
+5. HTTP Headers
+6. HTTP Authentication
+7. HTTP Status Codes 
 
 #I/O
-Files
-Reading
-Writing
-File System Functions
-Streams
-Contexts
+1. Files
+2. Reading
+3. Writing
+4. File System Functions
+5. Streams
+6. Contexts
 
 #Object Oriented Programming
 Instantiation
@@ -93,15 +93,15 @@ NOWDOC
 Encodings
 
 #Databases & SQL
-SQL
-Joins
-Prepared Statements
-Transactions
-PDO
+1. SQL
+2. Joins
+3. Prepared Statements
+4. Transactions
+5. PDO
 
 #Arrays
-Associative Arrays
-Array Iteration
-Array Functions
-SPL, Objects as arrays 
-Casting
+1. Associative Arrays
+2. Array Iteration
+3. Array Functions
+4. SPL, Objects as arrays 
+5. Casting
